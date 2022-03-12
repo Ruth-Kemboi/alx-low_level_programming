@@ -22,8 +22,7 @@ putchar(d);
 putchar(p);
 
 if (d == '8' && p == '9')
-continue;
- 
+continue; 
 putchar(',');
 putchar(' ');
 }
