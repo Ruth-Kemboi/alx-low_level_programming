@@ -18,7 +18,7 @@ y++;
 leng++;
 }
 x = leng - 1;
-for (i = 0; 0<= x; i++)
+for (i = 0; i <= x; i++)
 {
 if (i % 2 == 0)
 {
@@ -27,3 +27,4 @@ _putchar(str[0]);
 }
 _putchar('\n');
 }
+
